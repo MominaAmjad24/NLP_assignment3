@@ -1,0 +1,11 @@
+the sun rises in the east and sets in the west
+deep learning models can generate text sequences
+natural language processing is an important area of artificial intelligence
+recurrent neural networks process sequential data
+lstm and gru are popular sequence models
+text generation predicts the next word in a sequence
+machine translation converts text from one language to another
+neural networks learn patterns from training data
+word embeddings represent words as vectors
+one hot encoding is simple but sparse
+pretrained embeddings capture semantic meaning

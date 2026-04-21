@@ -1,0 +1,15 @@
+hello	hola
+how are you	como estas
+good morning	buenos dias
+good night	buenas noches
+thank you	gracias
+you are welcome	de nada
+i am a student	soy un estudiante
+this is my book	este es mi libro
+where is the school	donde esta la escuela
+i like science	me gusta la ciencia
+she is my friend	ella es mi amiga
+he is reading a book	el esta leyendo un libro
+we are learning python	estamos aprendiendo python
+they play football	ellos juegan futbol
+i love natural language processing	me encanta el procesamiento del lenguaje natural
